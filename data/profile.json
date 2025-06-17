@@ -20,14 +20,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 60},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 60},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 50},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 50},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 50},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 65},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 60},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 50}
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 80},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 90},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 90}
     ]
 }
